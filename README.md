@@ -1,2 +1,1 @@
-# X-Village-2018-Exercise
-我覺得這題...
+#X-Village-2018-Exercise
